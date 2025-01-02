@@ -1,8 +1,4 @@
-# Angular Hello World 🌱
-
-[![MIT License](https://img.shields.io/github/license/thnguyen101/angular-hello-world)](https://github.com/thnguyen101/angular-hello-world/blob/main/LICENSE)
-
-## 🗄️ Project Structure
+# 🗄️ Project Structure
 
 Hầu hết mã nằm trong thư mục src và trông giống như thế này:
 
